@@ -1,0 +1,5 @@
+/home/defis/Documents/453505/ОАиП/LR6/Task_1/build/CMakeFiles/MyExecutable.dir
+/home/defis/Documents/453505/ОАиП/LR6/Task_1/build/CMakeFiles/AddressSanitizedExecutable.dir
+/home/defis/Documents/453505/ОАиП/LR6/Task_1/build/CMakeFiles/ThreadSanitizedExecutable.dir
+/home/defis/Documents/453505/ОАиП/LR6/Task_1/build/CMakeFiles/edit_cache.dir
+/home/defis/Documents/453505/ОАиП/LR6/Task_1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyExecutable.dir/Task_1.cpp.o -o MyExecutable 

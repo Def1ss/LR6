@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=thread -fsanitize=address CMakeFiles/AddressSanitizedExecutable.dir/Task_2.cpp.o -o AddressSanitizedExecutable 

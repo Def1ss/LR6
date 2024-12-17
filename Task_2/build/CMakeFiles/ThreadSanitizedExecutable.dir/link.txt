@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=thread CMakeFiles/ThreadSanitizedExecutable.dir/Task_2.cpp.o -o ThreadSanitizedExecutable 
